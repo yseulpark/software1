@@ -1,2 +1,5 @@
 user = input('Enter your name: ')
-print("Nice to meet you, " + user + "!")
+print(f"Hello, {user} !")
+
+user = input('Enter your name: ')
+print("Hello, " + user + "!")
