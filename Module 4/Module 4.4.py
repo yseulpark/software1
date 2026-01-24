@@ -6,5 +6,5 @@ while guess != random_number :
         print("Too low")
     elif guess > random_number:
         print("Too high")
-    guess = int(input("Guess the number:"))
+    guess = int(input("Guess the number again:"))
 print ("Correct!")
